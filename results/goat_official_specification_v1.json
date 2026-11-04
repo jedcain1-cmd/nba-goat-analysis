@@ -1,0 +1,24 @@
+{
+  "model_name": "NBA GOAT - Corrected V1",
+  "status": "FROZEN",
+  "created_utc": "2026-10-21T21:13:55.759932+00:00",
+  "source_file": "results/goat_final_candidate_comparison_v1.csv",
+  "source_sha256": "cc332f0f5f76078b46b7d505a9f7f87cbd31729c06e283f757c3fbbcdf31d3f8",
+  "score_column": "goat_score_fractional_v2",
+  "category_weights": {
+    "postseason_score": 0.3,
+    "achievement_fractional_v2": 0.25,
+    "regular_score": 0.2,
+    "peak_score": 0.2,
+    "longevity_score": 0.05
+  },
+  "historical_award_treatment": "fractional eligibility",
+  "scope": "NBA careers",
+  "notes": [
+    "Measures overall NBA greatness, including performance and achievements.",
+    "Uses original V1 category scoring transformations.",
+    "Historical award availability uses fractional eligibility.",
+    "V2 elite-reference calibration retained as sensitivity analysis.",
+    "Rankings are model-dependent, not objective ground truth."
+  ]
+}
