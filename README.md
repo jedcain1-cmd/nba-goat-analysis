@@ -2,6 +2,14 @@
 
 An independent basketball analytics research project that evaluates NBA career greatness using historical statistics, category-level scoring, and a transparent weighted model. The analysis covers NBA history through the 2025–26 season.
 
+## Video Documentary
+
+**[Watch the full NBA GOAT Analysis documentary on YouTube](https://youtu.be/-5IG6SGo7eM)**
+
+This documentary presents the research, statistical methodology, historical comparisons, and final rankings through data visualizations and basketball analysis.
+
+The project combines Python-based statistical modeling with data storytelling to explore one of basketball's most debated questions: Who is the greatest NBA player of all time?
+
 ## Results — Corrected V1
 
 | Rank | Player | Final score |
